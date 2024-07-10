@@ -25,11 +25,7 @@ body{
     background-blend-mode: overlay;
 }
 .banner-content{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: 632px;
-    align-items: center;
+     
 }
 .banner-content p, h1{
     color: white;
